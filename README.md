@@ -2,8 +2,7 @@
 - 👀 I’m interested in mobile devlopment 
 - 🌱 I’m currently learning programming with Java as a devloper
 - 💞️ I’m looking to collaborate on major java based project and website designing
-- 📫 How to reach me
-- Shashi2151518@gmail.com
+- 📫 How to reach me  shashi2151518@gmail.com
 - 😄 Pronouns: Mavrick
 - ⚡ Fun fact: Experties in one liners😁
  
